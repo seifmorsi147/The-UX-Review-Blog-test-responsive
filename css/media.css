@@ -1,0 +1,64 @@
+/* Small devices such as large phones (640px and up) */
+@media only screen and (min-width: 640px) {
+    .sm-100{
+        width: 100%;
+    }
+    .sm-50{
+        width: 50%;
+    }
+    .sm-33{
+        width: 33.3333%;    
+    }
+    .sm-25{
+        width: 25%;
+    }
+    
+}
+
+/* Medium devices such as tablets (768px and up) */
+@media only screen and (min-width: 768px) {
+    .md-100{
+        width: 100%;
+    }
+    .md-50{
+        width: 50%;
+    }
+    .md-33{
+        width: 33.3333%;
+    }
+    .md-25{
+        width: 25%;
+    }
+}
+
+/* Large devices such as laptops (1024px and up) */
+@media only screen and (min-width: 1024px) {
+    .l-100{
+        width: 100%;
+    }
+    .l-50{
+        width: 50%;
+    }
+    .l-33{
+        width: 33.3333%;
+    }
+    .l-25{
+        width: 25%;
+    }
+}
+
+/* Largest devices such as desktops (1280px and up) */
+@media only screen and (min-width: 1280px) {
+    .xl-100{
+        width: 100%;
+    }
+    .xl-50{
+        width: 50%;
+    }
+    .xl-33{
+        width: 33.3333%;
+    }
+    .xl-25{
+        width: 25%;
+    }
+}

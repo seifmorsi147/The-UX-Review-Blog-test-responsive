@@ -1,0 +1,39 @@
+تويتر: fa-brands fa-twitter
+
+علامة زائد: fa-solid fa-plus
+
+قلب: fa-solid fa-heart
+
+ساعة: fa-regular fa-clock
+
+تقويم: fa-regular fa-calendar-days
+
+مستخدم (شخص): fa-solid fa-user
+
+تشغيل (مثلث): fa-solid fa-play
+
+صاروخ: fa-solid fa-rocket
+
+علامة إغلاق (X): fa-solid fa-xmark
+
+نجمة: fa-solid fa-star
+
+القائمة (Menu): fa-solid fa-bars
+
+الصف الثاني (من اليمين لليسار):
+
+ريشة كتابة: fa-solid fa-pen-nib
+
+صاروخ (شكل مختلف): fa-solid fa-shuttle-space
+
+قلم رصاص: fa-solid fa-pencil
+
+نجمة (حواف دائرية): fa-solid fa-star (أو fa-solid fa-star-half-stroke إذا كنت تقصد التقييم).
+
+ديسكورد: fa-brands fa-discord
+
+علامة صح: fa-solid fa-check
+
+إنستجرام: fa-brands fa-instagram
+
+لينكد إن: fa-brands fa-linkedin
