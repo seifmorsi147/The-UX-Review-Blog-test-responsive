@@ -20,6 +20,9 @@ body {
   /* height: 600vh; */
   scroll-behavior: smooth;
 }
+:root{
+  scroll-behavior: smooth;
+}
 ul {
   list-style: none;
 }
